@@ -56,7 +56,7 @@ var questions = [
       {
         type: 'checkbox',
         message: 'Which License would you like to use?',
-        choices:['MIT','Apache','GPL'],
+        choices:['MIT','Apache-2.0','GPL-3.0'],
         name: 'license',
       },
       {
@@ -83,16 +83,15 @@ inquirer
    var generateMarkdown = (data) => {
     return `
 # ${data.projectName} 
-![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)<br />
-
-### **Name:** ${data.nameinput}
-### **Deployed Link:** ${data.link}
-### **Github Repo:** ${data.githubRepo}
+[![License: ${data.license}](https://img.shields.io/badge/license-${data.license}-brightgreen)](https://opensource.org/licenses/${data.license})
+#### **Name:** ${data.nameinput}
+#### **Deployed Link:** ${data.link}
+#### **Github Repo:** ${data.githubRepo}
 ---
     
 ##  Table of Contents:
 * [Description](#description)
-* [Installing](#installing:    )
+* [Installation](#installation)
 * [Usage Information](#usage)
 * [Testing Instructions](#testing)
 * [Authors](#authors)
@@ -139,4 +138,4 @@ Any additional question?
 `
    }
 
-   module.exports = generateMarkdown;
+  //  module.exports = generateMarkdown;

@@ -1,15 +1,14 @@
 
-# a 
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
-
-### **Name:** a
-### **Deployed Link:** a
-### **Github Repo:** a
+# Readme Generator 
+[![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen)](https://opensource.org/licenses/MIT)
+#### **Name:** Honore Nelson
+#### **Deployed Link:** N/A
+#### **Github Repo:** https://github.com/matisses-goldfish/ReadMeGenerator
 ---
     
 ##  Table of Contents:
 * [Description](#description)
-* [Installing](#installing:    )
+* [Installation](#installation)
 * [Usage Information](#usage)
 * [Testing Instructions](#testing)
 * [Authors](#authors)
@@ -19,27 +18,27 @@
 
 ## Description:
 ---
-a
+This node application will allow users to anser prompt based questions, choose a license, and recieve a fully developed readme!
 
 ## Installation:
 ---
-    a
+    node index.js
 
 ## Usage
 ---
-     a
+     Use by launching irquired in your intergrated terminal. Once that is complete type 'node index.js' into your terminal. Answer the prompted questions, and a README.md file will be added to your folder
     
 ## Contribution Guidelines
 ---
-a
+Contriube using the github workflow method. Fork a repoisitory then pull to create local changes.
     
 ## Testing
 ---
-a
+N/A
     
 ## Authors
 ---
-* **a** - *Initial work* - [a](a)
+* **Honore Nelson** - *Initial work* - [Readme Generator](https://github.com/matisses-goldfish/ReadMeGenerator)
     
 ## License
 ---
@@ -51,5 +50,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ---
 Any additional question? 
 ### Contact me at:
-* Gmail: a
-* Github: a
+* Gmail: honoregn@gmail.com
+* Github: matisses-goldfish
