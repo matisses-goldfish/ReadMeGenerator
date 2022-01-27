@@ -17,7 +17,11 @@
 
 ## Description:
 ---
-This node application will allow users to anser prompt based questions, choose a license, and recieve a fully developed readme!
+This node application will allow users to answer prompt-based questions within their integrated terminal, choose a license, and recieve a fully developed README.md file within their code folder. 
+
+## Demo:
+---
+![generator demo](https://watch.screencastify.com/v/9eUyez9CbmfMBzM2Q4d2)
 
 ## Installation:
 ---
