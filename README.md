@@ -10,7 +10,7 @@
 * [Demo](#demo)
 * [Installation](#installation)
 * [Usage Information](#usage)
-* [Testing Instructions](#testing)
+* [Contribution Guidelines](#contribution)
 * [Authors](#authors)
 * [License](#license)
 * [Question](#questions)
@@ -34,11 +34,8 @@ Use by launching irquirer in your intergrated terminal, then type 'node index.js
     
 ## Contribution Guidelines
 ---
-Contriube using the github workflow method.
-    
-## Testing
----
-N/A
+Contribute using the Github workflow method.
+
     
 ## Authors
 ---
