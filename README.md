@@ -21,7 +21,7 @@ This node application will allow users to answer prompt-based questions within t
 
 ## Demo:
 ---
-![generator demo](https://watch.screencastify.com/v/9eUyez9CbmfMBzM2Q4d2)
+![generator demo](./Untitled_ Jan 27, 2022 7_10 PM.gif)
 
 ## Installation:
 ---
