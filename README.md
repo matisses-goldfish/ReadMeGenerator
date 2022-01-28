@@ -21,7 +21,7 @@ This node application will allow users to answer prompt-based questions within t
 
 ## Demo:
 ---
-![generator demo](Untitled_ Jan 27, 2022 7_10 PM.gif)
+![generator demo](./readmegenerator.gif)
 
 ## Installation:
 ---
