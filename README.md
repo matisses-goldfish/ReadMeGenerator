@@ -7,7 +7,7 @@
     
 ##  Table of Contents:
 * [Description](#description)
-* [Acceptance](#acceptance)
+* [Acceptance](#acceptance-reference)
 * [Demo](#demo)
 * [Installation](#installation)
 * [Usage Information](#usage)
