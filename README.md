@@ -7,6 +7,7 @@
     
 ##  Table of Contents:
 * [Description](#description)
+* [Demo](#demo)
 * [Installation](#installation)
 * [Usage Information](#usage)
 * [Testing Instructions](#testing)
