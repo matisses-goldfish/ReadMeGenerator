@@ -7,10 +7,11 @@
     
 ##  Table of Contents:
 * [Description](#description)
+* [Acceptance](#acceptance)
 * [Demo](#demo)
 * [Installation](#installation)
 * [Usage Information](#usage)
-* [Contribution Guidelines](#contribution)
+* [Contribution](#contribution-guidelines)
 * [Authors](#authors)
 * [License](#license)
 * [Question](#questions)
@@ -19,9 +20,8 @@
 ## Description:
 ---
 This node application will allow users to answer prompt-based questions within their integrated terminal, choose a license, and recieve a fully developed README.md file within their code folder. 
-## Acceptance Criteria
 
-## Acceotance Criteria
+## Acceptance: (reference)
 ---
 ```md
 GIVEN a command-line application that accepts user input
@@ -49,25 +49,25 @@ THEN I am taken to the corresponding section of the README
 ---
     node index.js
 
-## Usage
+## Usage:
 ---
 Use by launching irquirer in your intergrated terminal, then type 'node index.js'. The user will be prompted with questions regarding the application, such as project title, deployed link, description, installation instructions, usage information, contribution guidelines, and test instructions. Once the user has completed the prompt questions, they'll be asked for the licence of their choice. Once the questions are completed, a README.md file will be generated within thir code folder. This file will include the questions defined above, and an additional licence badge, including a clickable link to the license information. Their name will appear at the top of the page, and at the bottom their contact information will be displayed, including email and Github username.  
     
-## Contribution Guidelines
+## Contribution Guidelines:
 ---
 Contribute using the Github workflow method.
 
     
-## Authors
+## Authors:
 ---
 * **Honore Nelson** - *Initial work* - [Readme Generator](https://github.com/matisses-goldfish/ReadMeGenerator)
     
-## License
+## License:
 ---
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 <br></br>
 
-## Question
+## Question:
 ---
 Any additional question? 
 ### Contact me at:
