@@ -1,8 +1,8 @@
 
 # Readme Generator 
 [![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen)](https://opensource.org/licenses/MIT)
-#### **Name:** Honore Nelson
-#### **Github Repo:** https://github.com/matisses-goldfish/ReadMeGenerator
+#### **Name:**  Honore Nelson
+#### **Github Repo:**  https://github.com/matisses-goldfish/ReadMeGenerator
 ---
     
 ##  Table of Contents:
@@ -29,7 +29,7 @@ This node application will allow users to answer prompt-based questions within t
 
 ## Usage
 ---
-     Use by launching irquirer in your intergrated terminal, then type 'node index.js' into your integrated terminal. Answer the prompt-based questions, and a README.md file will be added to your code folder. 
+Use by launching irquirer in your intergrated terminal, then type 'node index.js'. Answer the prompt-based questions, and once completed a README.md file will be added to your code folder.
     
 ## Contribution Guidelines
 ---
