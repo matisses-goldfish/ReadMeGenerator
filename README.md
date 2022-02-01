@@ -42,8 +42,8 @@ THEN I am taken to the corresponding section of the README
 ```
 
 ## Demo:
+click the img to watch a short walkthrough of the application
 ---
-click here to watch a short walkthrough of the application
 [![Readme generator demo](http://img.youtube.com/vi/w1iJ7C_nVsI/0.jpg)](https://www.youtube.com/embed/w1iJ7C_nVsI)
 
 
