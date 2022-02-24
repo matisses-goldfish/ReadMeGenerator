@@ -3,12 +3,16 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen)](https://opensource.org/licenses/MIT)
 #### **Name:**  Honore Nelson
 #### **Github Repo:**  https://github.com/matisses-goldfish/ReadMeGenerator
+#### **Deployed Link:**  Backend Application- No URL
+
 ---
     
 ##  Table of Contents:
 * [Description](#description)
 * [Acceptance](#acceptance-reference)
 * [Demo](#demo)
+* [Application](#application)
+* [Technologies Used](#technologies-used)
 * [Installation](#installation)
 * [Usage Information](#usage)
 * [Contribution](#contribution-guidelines)
@@ -46,6 +50,14 @@ THEN I am taken to the corresponding section of the README
 ### click the img to watch a short walkthrough of the application
 
 [![Readme generator demo](http://img.youtube.com/vi/w1iJ7C_nVsI/0.jpg)](https://www.youtube.com/embed/w1iJ7C_nVsI)
+
+## Application:
+---
+![Index Javascript](ss1.png)
+
+## Technologies Used:
+---
+* Inquirer
 
 
 ## Installation:
